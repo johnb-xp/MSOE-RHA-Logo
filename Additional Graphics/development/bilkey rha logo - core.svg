@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="313.74441"
+   height="321.26608"
+   viewBox="0,0,313.74441,321.26608"
+   id="svg12"
+   sodipodi:docname="bilkey rha logo - core.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1400">RHA Logo - Core</title>
+  <defs
+     id="defs16">
+    <rect
+       x="87.287389"
+       y="100.62296"
+       width="163.05769"
+       height="116.38318"
+       id="rect2840" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.82038161"
+     inkscape:cx="152.97759"
+     inkscape:cy="161.5102"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="-27.883471,568.58034"
+       orientation="1,0"
+       id="guide4190" />
+  </sodipodi:namedview>
+  <path
+     id="rect1613"
+     style="stroke-width:5;stroke:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+     d="M 156.87305 4.8730469 L 84.964844 44.105469 L 84.964844 6.3125 L 40.072266 6.3125 L 40.072266 68.597656 L 0.34960938 90.269531 L 40.072266 90.269531 L 40.072266 211.68359 C 40.072266 231.16576 55.756112 246.84961 75.238281 246.84961 L 85.130859 246.84961 L 85.130859 287.39844 L 129.30273 246.84961 L 239.37305 246.84961 C 258.85522 246.84961 274.54102 231.16576 274.54102 211.68359 L 274.54102 90.269531 L 313.39453 90.269531 L 156.87305 4.8730469 z " />
+  <path
+     d=""
+     fill="#000000"
+     id="path4"
+     style="mix-blend-mode:normal;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+  <g
+     id="g26574-4"
+     transform="matrix(0.97751843,0,0,1.0924412,26.156672,139.13829)">
+    <g
+       aria-label="RHA"
+       transform="matrix(2.582022,0,0,2.5951644,-288.79322,-194.67646)"
+       id="text2838-6"
+       style="font-size:40px;line-height:1.25;font-family:'Brandon Grotesque';-inkscape-font-specification:'Brandon Grotesque, Normal';white-space:pre;shape-inside:url(#rect2840)" />
+  </g>
+  <metadata
+     id="metadata3216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>John Bilkey</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>RHA Logo - Core</dc:title>
+        <dc:date>November 17, 2021</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path1646-17-7"
+     style="fill:#c5050c;fill-opacity:1;stroke:none;stroke-width:5"
+     inkscape:transform-center-x="-2.7528054"
+     inkscape:transform-center-y="2.7528054"
+     d="M 283.03711 98.287109 L 283.03711 219.57031 C 283.03711 239.05248 269.75951 254.19141 250.27734 254.19141 L 140.01953 254.19141 L 117.34766 274.73828 L 217.42383 274.73828 L 260.38672 314.17773 L 260.38672 274.73828 L 270.27734 274.73828 C 289.75951 274.73828 305.44336 259.05248 305.44336 239.57031 L 305.44336 122.6582 C 305.44336 107.68756 283.03711 98.287109 283.03711 98.287109 z " />
+</svg>
