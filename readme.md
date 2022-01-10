@@ -4,7 +4,9 @@ bilkeyj@msoe.edu
    
       
 Created for the MSOE Residence Hall Association Logo Contest. Won on January 6th, 2022.   
-
+   
+   
+**File Type Notes:**   
 EPS files are used in Adobe Illustrator, CorelDRAW, and by some merch companies   
 
 SVG files are most commonly used by web browsers   
