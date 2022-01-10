@@ -1,5 +1,5 @@
-![Logo](https://raw.githubusercontent.com/johnb-xp/MSOE-RHA-Logo/5510cbc40b2adb35050a75631ae3e16060454ae4/SVG/rha%20logo.svg)
-
+![Logo](https://raw.githubusercontent.com/johnb-xp/MSOE-RHA-Logo/5510cbc40b2adb35050a75631ae3e16060454ae4/SVG/rha%20logo.svg#gh-light-mode-only)
+![Logo](https://raw.githubusercontent.com/johnb-xp/MSOE-RHA-Logo/00a6abd805a19c85c9dda07f9097031d979d3af8/SVG/rha%20logo%20white%20outline.svg#gh-light-mode-only)
 
 **RHA Logo, John Bilkey**   
 *November 2021*   
