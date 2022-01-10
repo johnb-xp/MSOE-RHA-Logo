@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/47438957/148727753-c0c365ca-3fd4-45ec-a273-8225092d4751.png#gh-light-mode-only)
-![image](https://user-images.githubusercontent.com/47438957/148727823-2a3cb55c-71b6-40b6-b21d-95435445f18d.png#gh-dark-mode-only)
+![image](https://user-images.githubusercontent.com/47438957/148727753-c0c365ca-3fd4-45ec-a273-8225092d4751.png#gh-light-mode-only){:width="50%"}
+![image](https://user-images.githubusercontent.com/47438957/148727823-2a3cb55c-71b6-40b6-b21d-95435445f18d.png#gh-dark-mode-only){:width="50%"}
 
 **RHA Logo, John Bilkey**   
 *November 2021*   
