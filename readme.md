@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47438957/148727753-c0c365ca-3fd4-45ec-a273-8225092d4751.png#gh-light-mode-only" alt="MSOE RHA Logo" width="50%">
+<img src="https://github.com/johnb-xp/MSOE-RHA-Logo/blob/main/PNG/rha%20logo.png?raw=true#gh-light-mode-only" alt="MSOE RHA Logo" width="50%">
 <img src="https://user-images.githubusercontent.com/47438957/148727823-2a3cb55c-71b6-40b6-b21d-95435445f18d.png#gh-dark-mode-only" alt="MSOE RHA Logo - White Outline for Dark Mode" width="50%">
 
 **RHA Logo, John Bilkey**   
