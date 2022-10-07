@@ -35,10 +35,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.82038161"
-     inkscape:cx="152.97759"
-     inkscape:cy="161.5102"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:cx="121.89449"
+     inkscape:cy="-44.49149"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -69,7 +69,8 @@
   <path
      id="rect1613"
      style="stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 156.87319,5.9806998 84.964982,45.213122 V 7.4201529 H 40.072404 V 69.705309 L 0.34974733,91.377184 H 40.072404 V 212.79124 c 0,19.48217 15.683846,35.16602 35.166015,35.16602 h 9.892578 v 40.54883 l 44.171873,-40.54883 h 110.07032 c 19.48217,0 35.16797,-15.68385 35.16797,-35.16602 V 91.377184 h 38.85351 z" />
+     d="M 156.87319,5.9806998 84.965,45.213122 V 7.4201529 H 40.072404 V 69.705309 L 0.34974733,91.377184 H 40.072404 V 212.79124 c 0,19.48217 15.683846,35.16602 35.166015,35.16602 H 84.965 v 40.54883 l 44.33787,-40.54883 h 110.07032 c 19.48217,0 35.16797,-15.68385 35.16797,-35.16602 V 91.377184 h 38.85351 z"
+     sodipodi:nodetypes="cccccccsscccssccc" />
   <path
      d=""
      fill="#000000"
